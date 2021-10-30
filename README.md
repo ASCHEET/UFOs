@@ -13,7 +13,8 @@ As the user needs or wants to look up something specific, installed are several 
 ![Fig 2 - Cali results](https://github.com/ASCHEET/UFOs/blob/main/static/images/Fig%202.png?raw=true)
 
 ## Summary
-One current drawback seems to the be dataset itself.  Many of the dates seem inconsistant for an accurate database.  For the next iteration of the HTML, it would be good to allow users to enter a keyword or phrase that would sort through the "Comments" to determine if similar patterns are seen at different location on the globe (e.g. 3 Red lights).  Another improvement would be to add a google API location on the returned results to see if multiple entries could be referring to the same sighting, so multiple entries of the same sighting could be refined.
+One current drawback seems to the be dataset itself.  Many of the dates seem inconsistant for an accurate database.  Possible data-refining might be needed for accuracy. 
+For the next iteration of the HTML, it would be good to allow users to enter a keyword or phrase that would sort through the "Comments" to determine if similar patterns are seen at different locations on the globe (e.g. 3 Red lights).  Another improvement would be to add a google API location on the returned results to see if multiple entries could be referring to the same sighting, so multiple entries of the same sighting could be refined.
 
 
 
